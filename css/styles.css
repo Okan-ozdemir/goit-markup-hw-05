@@ -451,7 +451,7 @@ address a {
 /*HOMEWORK-5*/
 
 /*FOOTER*/
-.Modal-p {
+.Modal-par-1 {
   margin-bottom: 16px;
   font-weight: 500;
   font-size: 16px;
@@ -459,11 +459,11 @@ address a {
   letter-spacing: 0.02em;
   color: #ffffff;
 }
-.Modal-form {
+.Modal-form-1 {
   display: flex;
   gap: 24px;
 }
-.Modal-input {
+.Modal-input-1 {
   width: 264px;
   height: 40px;
   border: 1px solid #ffffff;
@@ -476,7 +476,7 @@ address a {
   border-radius: 4px;
   color: #ffffff;
 }
-.Modal-button {
+.Modal-button-1 {
   min-width: 165px;
   height: 40px;
   display: flex;
