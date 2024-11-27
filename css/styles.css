@@ -491,6 +491,11 @@ address a {
   border: none;
   border-radius: 4px;
 }
+.Message {
+  width: 24px;
+  height: 24px;
+  margin-left: 16px;
+}
 .modal-overlay.is-open {
   margin-left: 80px;
 }
