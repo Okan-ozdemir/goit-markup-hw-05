@@ -497,4 +497,6 @@ address a {
 }
 .send-svg {
   margin-left: 16px;
+  background-color: FFFFFF;
+  opacity: 100%;
 }
