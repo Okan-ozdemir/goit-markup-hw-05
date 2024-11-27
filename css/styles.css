@@ -480,7 +480,7 @@ address a {
   border-radius: 4px;
   color: #ffffff;
 }
-.Modal-button {
+.modal-button {
   min-width: 165px;
   height: 40px;
   display: flex;
