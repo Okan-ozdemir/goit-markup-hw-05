@@ -565,8 +565,12 @@ address a {
 }
 .modal-div {
   margin-bottom: 8px;
+}
+
+.modal-div-box {
   position: relative;
 }
+
 .modal-label {
   font-size: 12px;
   line-height: 1.17;
