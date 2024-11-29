@@ -551,16 +551,15 @@ address a {
 .modal-button-2:focus {
   background-color: #404bbf;
   border: none;
-  fill: #ffffff;
 }
-.close-svg {
+.modal-svg {
   position: absolute;
   left: 16px;
   top: 50%;
   transform: translateY(-50%);
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
   fill: #4d5ae5;
-  background-color: red;
+  fill: #ffffff;
 }
 .modal-paragraph {
   font-weight: 500;
