@@ -442,19 +442,20 @@
                     </div>
                 </div>
                 <div class="modal-div">
-                    <label for="user-privacy">Comment</label>
-                    <div class="modal-div-box">
-                        <input checked="visually-hidden" id="user-privacy" name="user-name" type="checkbox"
-                            value="true">
-                        <svg class="checkbox-svg" width="10" height="8">
-                            <use href="./images/icons.svg#icon-comment"></use>
-                        </svg>
-                        </span>I accept the terms and conditions of the</label>
-                        <textarea id="user-comment" name="user-comment" placeholder="Text input">
-                                </textarea>
-                    </div>
+                    <label class="modal-label" for="user-comment">Comment</label>
+                    <textarea class="textarea-comment" id="user-comment" name="user-comment" placeholder="Text input">
+                                                    </textarea>
                 </div>
-            </form>
+                <div class="modal-div">
+                    <label class="modal-label" for="user-comment">I accept the terms and conditions of the</label>
+                    <input checked="visually-hidden" id="user-privacy" name="user-name" type="checkbox" value="true">
+                    <svg class="checkbox-svg" width="10" height="8">
+                        <use href="./images/icons.svg#icon-comment"></use>
+                    </svg>
+
+                </div>
+        </div>
+        </form>
 
 </body>
 
