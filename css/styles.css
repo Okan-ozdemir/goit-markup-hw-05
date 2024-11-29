@@ -573,3 +573,6 @@ address a {
   display: block;
   margin-bottom: 4px;
 }
+.modal-div {
+  margin-bottom: 8px;
+}
