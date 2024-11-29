@@ -597,3 +597,7 @@ address a {
 .input-div:focus {
   border-color: #4d5ae5;
 }
+.person-svg {
+  fill: #ffffff;
+  background-color: red;
+}
