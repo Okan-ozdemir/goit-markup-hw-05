@@ -556,3 +556,12 @@ address a {
 .person-svg {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+.modal-paragraph {
+  font-weight: 500;
+  font-size: 16px;
+  text-align: center;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  margin-bottom: 16px;
+}
