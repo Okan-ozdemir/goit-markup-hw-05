@@ -580,6 +580,8 @@ address a {
 }
 .modal-div {
   margin-bottom: 8px;
+}
+.modal-div-box {
   position: relative;
 }
 .input-div {
