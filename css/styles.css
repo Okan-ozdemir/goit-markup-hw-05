@@ -584,13 +584,13 @@ address a {
   height: 40px;
   border-radius: 4px;
   background-color: transparent;
-  border: 1px solid rgba(46, 47, 66, 0.4);
   padding-left: 38px;
   outline: transparent;
-  border-color: #4d5ae5;
   transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  border-color: #4d5ae5;
+  border: 1px solid rgba(46, 47, 66, 0.4);
 }
-.icon-svg {
+.form-svg {
   position: absolute;
   left: 16px;
   top: 50%;
@@ -615,9 +615,8 @@ textarea {
 }
 textarea:focus {
   border-color: #4d5ae5;
-  background-color: red;
 }
-.modal-div-1 {
+.modal-div {
   margin-bottom: 24px;
 }
 .modal-label-box {
@@ -626,7 +625,7 @@ textarea:focus {
   letter-spacing: 0.04em;
   color: #8e8f99;
 }
-.span-class {
+.modal-span-checkbox {
   width: 16px;
   height: 16px;
   border: 1px solid rgba(46, 47, 66, 0.4);
