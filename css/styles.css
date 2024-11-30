@@ -635,7 +635,7 @@ address a {
   letter-spacing: 0.04em;
   color: #8e8f99;
 }
-.modal-span-checkb:checked + .modal-div-checkbox {
+.modal-span-checkbox:checked + .modal-div-checkbox {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
