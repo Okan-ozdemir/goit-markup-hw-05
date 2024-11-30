@@ -666,7 +666,7 @@ address a {
   margin: auto;
 }
 
-.modal-checkbox-input:checked + .modal-label-box.modal-span-checkbox {
+.modal-checkbox-input:checked + .modal-span-checkbox {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
