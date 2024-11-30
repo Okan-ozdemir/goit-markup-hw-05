@@ -455,7 +455,7 @@ address a {
 .modal-overlay {
   margin-left: 80px;
 }
-.modal-par {
+.footer-modal-par {
   margin-bottom: 16px;
   font-weight: 500;
   font-size: 16px;
@@ -463,11 +463,11 @@ address a {
   letter-spacing: 0.02em;
   color: #ffffff;
 }
-.modal-form {
+.footer-modal-form {
   display: flex;
   gap: 24px;
 }
-.form-input {
+.footer-form-input {
   width: 264px;
   height: 40px;
   border: 1px solid #ffffff;
@@ -480,7 +480,7 @@ address a {
   border-radius: 4px;
   color: #ffffff;
 }
-.modal-button {
+.footer-modal-button {
   min-width: 165px;
   height: 40px;
   display: flex;
