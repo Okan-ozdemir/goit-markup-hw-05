@@ -599,6 +599,7 @@ address a {
 }
 .input-div:focus {
   border-color: #4d5ae5;
+  fill: #4d5ae5;
 }
 
 .form-comment-div {
@@ -669,7 +670,7 @@ address a {
 }
 
 .modal-checkbox-input:checked + .modal-span-checkbox {
-  background-color: #404bbf;
+  background-color: red;
   border: none;
   fill: #f4f4fd;
 }
