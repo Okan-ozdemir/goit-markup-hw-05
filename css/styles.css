@@ -645,9 +645,11 @@ address a {
   justify-content: center;
   text-align: center;
   fill: transparent;
+  margin: 0;
 }
 .button-checkbox-link {
   color: #4d5ae5;
+  text-decoration: underline;
 }
 .button-div {
   font-family: "Roboto", sans-serif;
