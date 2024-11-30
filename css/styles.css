@@ -635,6 +635,11 @@ address a {
   letter-spacing: 0.04em;
   color: #8e8f99;
 }
+.modal-checkbox-input:checked + .modal-span-checkbox {
+  background-color: #404bbf;
+  border: none;
+  fill: #f4f4fd;
+}
 .modal-span-checkbox {
   width: 16px;
   height: 16px;
@@ -669,10 +674,4 @@ address a {
   border: none;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   margin: auto;
-}
-
-.modal-checkbox-input:checked + .modal-span-checkbox {
-  background-color: red;
-  border: none;
-  fill: #f4f4fd;
 }
