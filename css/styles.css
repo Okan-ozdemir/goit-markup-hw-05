@@ -643,6 +643,9 @@ textarea:focus {
   border: none;
   fill: #f4f4fd;
 }
+.Privacy-link {
+  color: #4d5ae5;
+}
 .button-div {
   font-family: "Roboto", sans-serif;
   display: block;
